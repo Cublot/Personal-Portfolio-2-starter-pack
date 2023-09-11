@@ -38,9 +38,9 @@ export const workExp = [
   {
     place: "Expousal Services",
     tenure: "Sep 2021 - Sep 2022",
-    role: "Visual Designer",
+    role: "Graphic Designer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      " I was a responsible for creating visual content for various media, such as print, digital, and social media. i use my artistic and technical skills to design layouts, illustrations, logos, and other visual elements that convey a message or concept.",
   },
   {
     place: "Ekobits",
