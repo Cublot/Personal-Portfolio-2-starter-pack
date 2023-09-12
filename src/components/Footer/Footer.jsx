@@ -31,10 +31,10 @@ const Footer = () => {
             <p>Lekki, Lagos, NIGERIA</p>
           </div>
           <ul className={css.menu}>
-            <li><a href="">LinkedIN</a></li>
-            <li><a href="">Instagram</a></li>
-            <li><a href="">Github</a></li>
-            <li><a href="">Twitter</a></li>
+            <li><a href="https://www.linkedin.com/in/cublots91b29231/">LinkedIN</a></li>
+            <li><a href="https://instagram.com/cublot_designs?igshid=YTQwZjQ0NmI0OA==">Instagram</a></li>
+            <li><a href="https://github.com/Cublot">Github</a></li>
+            <li><a href="https://twitter.com/_Dhanny07">Twitter</a></li>
           </ul>
         </div>
       </motion.div>
