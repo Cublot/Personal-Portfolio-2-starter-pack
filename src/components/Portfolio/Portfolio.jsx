@@ -21,7 +21,7 @@ const Portfolio = () => {
             <span className="primaryText">My Latest Works</span>
             <p style={{marginTop: "10px"}}>Perfect solution for digital experience</p>
           </div>
-          <span className="secondaryText">Explore More Works</span>
+          <span className="secondaryText"><a href="">Explore More Works</a></span>
         </motion.div>
 
 
@@ -29,7 +29,7 @@ const Portfolio = () => {
             <motion.img variants={fadeIn("up", "tween", .5, .6)} src="./showCase1.png" alt="project" />
             <motion.img variants={fadeIn("up", "tween", .7, .6)} src="./showCase2.png" alt="project" />
             <motion.img variants={fadeIn("up", "tween", .9, .6)} src="./showCase3.png" alt="project" />
-            <motion.img variants={fadeIn("up", "tween", .5, .6)} src="./showCase1.png" alt="project" />
+            <motion.img variants={fadeIn("up", "tween", .5, .6)} src="./showCase4.png" alt="project" />
             <motion.img variants={fadeIn("up", "tween", .7, .6)} src="./showCase2.png" alt="project" />
             <motion.img variants={fadeIn("up", "tween", .9, .6)} src="./showCase3.png" alt="project" />
         </div>

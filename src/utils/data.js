@@ -23,8 +23,7 @@ export const projectExperience = [
 ];
 
 export const WhatDoIHelp = [
-  "I will help you with finding a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
-  "We use process design to create digital products. Besides that also help their business",
+  " My role as a digital marketer and web developer involves building and maintaining websites, optimizing them for search engines, and implementing various digital marketing strategies to drive traffic and achieve business goals. It's a dynamic field that combines technical skills with marketing knowledge to create effective online presence and campaigns.",
 ];
 
 export const workExp = [
@@ -33,7 +32,7 @@ export const workExp = [
     tenure: "Aug 2020 - Sep 2021",
     role: "Digital Marketer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "I and my team planned, executed, and optimized  online marketing strategies across various channels, including SEO, social media, email, and paid advertising, to achieve business goals, analyze performance, and stay updated on industry trends.",
   },
   {
     place: "Expousal Services",
@@ -47,7 +46,7 @@ export const workExp = [
     tenure: "OCT 2022 - Till Date",
     role: "Front End Developer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "I substantially enriched my skill set in web development through a rigorous and comprehensive training program at Ekobits, equipping myself with the essential knowledge and expertise required for this field",
   },
 ];
 
@@ -56,42 +55,28 @@ export const comments = [
     name: "Maduka Micheal",
     post: "",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "We were in dire need of a website overhaul, and this web developer came to the rescue. Their technical prowess and design sensibilities transformed our outdated site into a modern masterpiece. They were always there to address our questions and concerns, making the entire process smooth and stress-free. We highly endorse their services",
     img: "./people2.png",
   },
   {
     name: "Mujeeb Abiola",
     post: "",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Hiring this web developer was one of the best decisions we made for our online presence. They were professional, responsive, and went the extra mile to ensure our website was not only visually appealing but also optimized for performance. Their expertise made a significant impact on our business, and we couldn't be happier",
     img: "./people1.png",
   },
   {
-    name: "Zammy Luxury Hair",
+    name: "Melodeefy",
     post: "",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "I can't say enough good things about this web developer. They are not only highly skilled but also great communicators. They patiently listened to our needs, offered creative solutions, and delivered a website that perfectly represents our brand. We're thrilled with the results",
     img: "./people2.png",
   },
   {
     name: "Bridal Bliss Grooming",
     post: "",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
-  },
-  {
-    name: "Maduka Micheal",
-    post: "",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
-  {
-    name: "Maduka Micheal",
-    post: "",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Working with this web developer was an absolute pleasure! They took our vision and turned it into a stunning, user-friendly website that exceeded our expectations. Their attention to detail and commitment to delivering on time were truly impressive. We highly recommend their services!",
     img: "./people1.png",
   },
  

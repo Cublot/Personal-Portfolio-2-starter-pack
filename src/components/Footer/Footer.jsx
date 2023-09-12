@@ -21,7 +21,7 @@ const Footer = () => {
             amazing together.
           </span>
           <span className="primaryText">
-            Start by <a href="mailto:tamiloresonusi@gmail.com">Contact Me</a>
+            Start by <a href="mailto:tamiloresonusi@gmail.com">Contacting Me</a>
           </span>
         </div>
 
@@ -31,10 +31,10 @@ const Footer = () => {
             <p>Lekki, Lagos, NIGERIA</p>
           </div>
           <ul className={css.menu}>
-            <li>Services</li>
-            <li>Works</li>
-            <li>Notes</li>
-            <li>Experience</li>
+            <li><a href="">LinkedIN</a></li>
+            <li><a href="">Instagram</a></li>
+            <li><a href="">Github</a></li>
+            <li><a href="">Twitter</a></li>
           </ul>
         </div>
       </motion.div>
